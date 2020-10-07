@@ -1,0 +1,33 @@
+body{
+  text-align: center;
+}
+
+
+#button-grid{
+  display: flex;
+  padding-top: 1px;
+  justify-content: center;
+  font-size: 100px;
+}
+
+/* #inputNumber{
+  background-color: white;
+  font-size: 50px;
+  font-display: center;
+  height: 80px;
+} */
+
+.button {
+  font-size: 50px;
+  background-color: gray;
+  color: white;
+}
+
+.button:hover{
+  background-color: white;
+  color: gray;
+}
+
+h1{
+  padding: 100px;
+}
